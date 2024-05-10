@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wahaj Sajid</h1>
 <h3 align="center">A passionate Native Android Developer from Pakistan</h3>
-
+<img align="right" alt="Coding"  width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahah35" alt="wahah35" /></a> </p>
 
 - 🔭 I’m currently working on [PayMate](https://github.com/wahaj35/PayMate)
