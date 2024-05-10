@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wahaj-s-172134229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wahaj-s-172134229" height="30" width="40" /></a>
-<a href="https://fb.com/wahaj_sajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wahaj_sajid" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100051120092225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wahaj_sajid" height="30" width="40" /></a>
 <a href="https://instagram.com/wahaj_sajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wahaj_sajid" height="30" width="40" /></a>
 </p>
 
