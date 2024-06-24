@@ -3,7 +3,7 @@
 <img align="right" alt="Coding"  width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahah35" alt="wahaj35" /></a> </p>
 
-- 🔭 I’m currently working on [PayMate](https://github.com/wahaj35/PayMate)'
+- 🔭 I’m currently working on [PayMate](https://github.com/wahaj35/PayMate)  & [FoodApp-For-Restaurants](https://github.com/wahaj35/Food-App-for-Restaurants')
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
