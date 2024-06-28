@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 👯 I’m looking to collaborate on [PayMate](https://github.com/wahaj35/PayMate)
-
 - 👨‍💻 All of my projects are available at [https://codeworks.kesug.com](https://codeworks.kesug.com)
 
 - 📝 I regularly write articles on [https://codeworks.kesug.com](https://codeworks.kesug.com)
@@ -16,8 +14,6 @@
 - 💬 Ask me about **Kotlin,C++,Robotics,Room Database,Firebase**
 
 - 📫 How to reach me **mwahajsajidali@gmail.com**
-
-- ⚡ Fun fact **I don't know how to design frontend.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
