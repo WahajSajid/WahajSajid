@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahajsajid&label=Profile%20views&color=0e75b6&style=flat" alt="wahajsajid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahajsajid" alt="wahajsajid" /></a> </p>
-
 - 🔭 I’m currently working on [Get Order (Food App for Restaurants)](https://github.com/WahajSajid/Food-App-for-Restaurants)
 
 - 🌱 I’m currently learning **Jetpack Compose**
