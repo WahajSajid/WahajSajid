@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Get Order (Food App for Restaurants)](https://github.com/WahajSajid/Food-App-for-Restaurants)
 
-- 🌱 I’m currently learning **Jetpack Compose** 
+- 🌱 I’m currently learning **Jetpack Compose**  
 
 - 👯 I’m looking to collaborate on [Get Order](https://github.com/WahajSajid/Food-App-for-Restaurants)
 
