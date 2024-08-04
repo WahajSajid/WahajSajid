@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mwahajsajidali@gmail.com**
 
-- ⚡ Fun fact **Coding is all about thinking**
+- ⚡ Fun fact **Coding is all about thinking** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
