@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**  
 
-- 👯 I’m looking to collaborate on [Get Order](https://github.com/WahajSajid/Food-App-for-Restaurants)
-
 - 👨‍💻 All of my projects are available at [https://codeworks.kesug.com](https://codeworks.kesug.com)
 
 - 📝 I regularly write articles on [https://codeworks.kesug.com](https://codeworks.kesug.com)
