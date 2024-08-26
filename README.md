@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**  
 
-- 👨‍💻 All of my projects are available at [https://codeworks.kesug.com](https://codeworks.kesug.com)
+- 👨‍💻 All of my projects are available at [https://codeworks.kesug.com](https://codeworks.kesug.com) 
 
 - 📝 I regularly write articles on [https://codeworks.kesug.com](https://codeworks.kesug.com)
 
