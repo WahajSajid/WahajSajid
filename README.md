@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://codeworks.kesug.com](https://codeworks.kesug.com) 
 
-- 💬 Ask me about **Kotlin,C++,Robotics,Room Database,Firebase**
+- 💬 Ask me about **Kotlin, Android Development,Room Database,Firebase,Robotics,C++**
 
 - 📫 How to reach me **mwahajsajidali@gmail.com** 
 
