@@ -5,7 +5,7 @@
 
 - 🔭 Latest Project [Get Order (Food App for Restaurants)](https://github.com/WahajSajid/Food-App-for-Restaurants)
 
-- 🌱 I’m currently learning **Kotlin Multiplatform**  
+- 🌱 I’m currently learning **Kotlin Multiplatform & Compose Multiplatform**  
 
 - 👨‍💻 All of my projects are available at [https://codeworks.kesug.com](https://codeworks.kesug.com) 
 
