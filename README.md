@@ -3,7 +3,7 @@
 <img align = "right" alt = "Coding" width = "350" src = "https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahajsajid&label=Profile%20views&color=0e75b6&style=flat" alt="wahajsajid" /> </p>
 
-- 🔭 Latest Project [Get Order (Food App for Restaurants)](https://github.com/WahajSajid/Food-App-for-Restaurants)
+- 🔭 Recent Project [Get Order (Food App for Restaurants)](https://github.com/WahajSajid/Food-App-for-Restaurants)
 
 - 🌱 I’m currently learning **Kotlin Multiplatform & Compose Multiplatform**  
 
