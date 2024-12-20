@@ -5,6 +5,8 @@
 
 - 🔭 Recent Project [Get Order (Food App for Restaurants)](https://github.com/WahajSajid/Food-App-for-Restaurants)
 
+- 🔭 I am currently working on [Foodly - (Home based Chef Platform)]([https://github.com/WahajSajid/Food-App-for-Restaurants](https://github.com/WahajSajid/Foodly))
+
 - 🌱 I’m currently learning **Kotlin Multiplatform & Compose Multiplatform**  
 
 - 👨‍💻 All of my projects are available at [https://codeworks.kesug.com](https://codeworks.kesug.com) 
