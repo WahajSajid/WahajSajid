@@ -1,19 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Wahaj Sajid</h1> 
-<h3 align="center">Native Android App Developer</h3> 
+<h3 align="center">Software Engineer</h3> 
 <img align = "right" alt = "Coding" width = "350" src = "https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahajsajid&label=Profile%20views&color=0e75b6&style=flat" alt="wahajsajid" /> </p>
 
-- 🔭 Recent Project [Get Order (Food App for Restaurants)](https://github.com/WahajSajid/Food-App-for-Restaurants)
-
-- 🔭 I am currently working on [Foodly - (Home based Chef Platform)](https://github.com/WahajSajid/Food-App-for-Restaurants](https://github.com/WahajSajid/Foodly))
-
-- 🌱 I’m currently learning **Machine Learning**  
-
-- 👨‍💻 All of my projects are available at [https://codeworks.kesug.com](https://codeworks.kesug.com) 
-
 - 📝 I regularly write articles on [https://codeworks.kesug.com](https://codeworks.kesug.com) 
-
-- 💬 Ask me about **Kotlin, Android Development,Room Database,Firebase,Robotics,C++** 
 
 - 📫 How to reach me **mwahajsajidali@gmail.com** 
 
